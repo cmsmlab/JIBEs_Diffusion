@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the article and the software."
+title: "JIBEs_Diffusion: Droplet network simulation code"
+authors:
+  - family-names: Wang
+    given-names: Jun
+  - family-names: Dortdivanlioglu
+    given-names: Berkin
+    orcid: "https://orcid.org/0000-0001-7105-1452"
+    affiliation: "University of Texas at Austin"
+version: 1.0.0
+date-released: 2026-05-27
+license: MIT
+repository-code: "https://github.com/cmsmlab/JIBEs_Diffusion"
+preferred-citation:
+  type: article
+  title: "3D-printable bilayer-stabilized jammed emulsions as scalable biological tissue mimics"
+  authors:
+    - {family-names: Fica, given-names: Aida}
+    - {family-names: Torbett-Dougherty, given-names: McKayla}
+    - {family-names: West, given-names: Samuel}
+    - {family-names: Rao, given-names: Malika}
+    - {family-names: Dhiman, given-names: Raman}
+    - {family-names: Wang, given-names: Jun}
+    - {family-names: Gao, given-names: Yang}
+    - {family-names: Tu, given-names: Yu-Ming}
+    - {family-names: Behera, given-names: Harekrushna}
+    - {family-names: Roc, given-names: Claude}
+    - {family-names: Grogan, given-names: Kyler}
+    - {family-names: Beaver, given-names: Alexandra}
+    - {family-names: Liu, given-names: Chang}
+    - {family-names: Lin, given-names: Alexander Jui-An}
+    - {family-names: Belardi, given-names: Brian}
+    - {family-names: Keitz, given-names: Benjamin K.}
+    - {family-names: Hickey, given-names: Robert J.}
+    - {family-names: Ke, given-names: Zunlong}
+    - {family-names: Rosales, given-names: Adrianne}
+    - {family-names: Dortdivanlioglu, given-names: Berkin}
+    - {family-names: Sarles, given-names: Stephen A.}
+    - {family-names: Kumar, given-names: Manish}
+  journal: "Nature Materials"
+  year: 2026
+  notes: "in press (accepted 6 May 2026)"

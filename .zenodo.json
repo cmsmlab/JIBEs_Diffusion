@@ -1,0 +1,35 @@
+{
+  "title": "JIBEs_Diffusion: Droplet network simulation code",
+  "description": "C/C++/CUDA simulation of mechanical and osmotic interactions in droplet networks, used to produce the folding simulation results in Fica et al., Nature Materials (2026). GPU-accelerated with real-time OpenGL visualization.",
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "Wang, Jun",
+      "affiliation": "University of Texas at Austin"
+    },
+    {
+      "name": "Dortdivanlioglu, Berkin",
+      "affiliation": "University of Texas at Austin",
+      "orcid": "0000-0001-7105-1452"
+    }
+  ],
+  "keywords": [
+    "droplet networks",
+    "jammed emulsions",
+    "CUDA",
+    "GPU simulation",
+    "osmotic diffusion",
+    "soft matter",
+    "tissue mimics"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.26434/chemrxiv-2025-xccxm",
+      "relation": "isSupplementTo",
+      "scheme": "doi",
+      "resource_type": "publication-preprint"
+    }
+  ]
+}
